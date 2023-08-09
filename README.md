@@ -45,7 +45,6 @@ More caution to be exercised on the loan applications with these attributes
 
 
 ## Acknowledgements
-Give credit here.
 - This project was based on the learnings from EDA module of ML C54 EPGP program by IIIT Bangalore and upGrad
 
 
